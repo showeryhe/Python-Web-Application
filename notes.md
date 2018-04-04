@@ -2,8 +2,8 @@
 
 安装nginx的时候报错
 
-> $ sudo apt-get install nginx
-> Failed to start A high performance web server and a revers p...
+> $ sudo apt-get install nginx\\
+> Failed to start A high performance web server and a revers p...\\
 照屏幕上的指令
 > $ systemctl status nginx.service
 返回同样的错误，检查nginx的的状态？
