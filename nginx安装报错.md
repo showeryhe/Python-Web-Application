@@ -1,6 +1,6 @@
 安装nginx的时候报错
 > $ sudo apt-get install nginx  
-> Failed to start A high performance web server and a revers p...  
+> <font color=red>Failed to start A high performance web server and a revers p...</font>  
 
 ![failure]
 
