@@ -1,10 +1,7 @@
 # Python-Web-Application
 
-`$ sudo apt-get install nginx`
-
-returns
-
-`Failed to start A high performance web server and a revers p...`
+>     $ sudo apt-get install nginx
+Failed to start A high performance web server and a revers p...`
 
 `$ systemctl status nginx.service`
 
