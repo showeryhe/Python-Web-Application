@@ -1,19 +1,16 @@
 # Python-Web-Application
-安装nginx的时候报错
 
+安装nginx的时候报错
 > $ sudo apt-get install nginx  
 > Failed to start A high performance web server and a revers p...  
 
 照屏幕上的指令  
-
 > $ systemctl status nginx.service  
 
 返回同样的错误，检查nginx的的状态？  
-
 > $ nginx -t  
 
 显示正常  
-
 > nginx: the configuration file /etc/nginx/nginx.conf syntex is ok  
 > nginx: configuration file /etc/nginx/nginx.conf test is successful  
 
