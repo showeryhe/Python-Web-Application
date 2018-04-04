@@ -1,5 +1,3 @@
-# Python-Web-Application
-
 安装nginx的时候报错
 > $ sudo apt-get install nginx  
 > Failed to start A high performance web server and a revers p...  
@@ -37,3 +35,5 @@
 
 [failure]: https://github.com/showeryhe/Python-Web-Application/blob/master/nginx_failure.jpg
 [success]: https://github.com/showeryhe/Python-Web-Application/blob/master/nginx_success.jpg
+
+但是有没有更具体的方式来查看错误呢？
