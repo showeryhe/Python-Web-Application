@@ -4,6 +4,8 @@
 > $ sudo apt-get install nginx  
 > Failed to start A high performance web server and a revers p...  
 
+![failure]
+
 照屏幕上的指令  
 > $ systemctl status nginx.service  
 
@@ -31,3 +33,7 @@
 > $ sudo apt-get install nginx  
 
 进入公网ip, 出现nginx欢迎界面, 阶段性胜利!
+![success]
+
+[failure]: https://github.com/showeryhe/Python-Web-Application/blob/master/nginx_failure.jpg
+[success]: https://github.com/showeryhe/Python-Web-Application/blob/master/nginx_success.jpg
