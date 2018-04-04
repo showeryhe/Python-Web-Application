@@ -2,8 +2,7 @@
 
 安装nginx的时候报错
 
-> $ sudo apt-get install nginx
-
+> $ sudo apt-get install nginx  
 > Failed to start A high performance web server and a revers p...
 
 照屏幕上的指令
